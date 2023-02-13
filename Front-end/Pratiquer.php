@@ -14,12 +14,12 @@
 <div class="toolbar">
   
     <div>
-    <label id="stroke-width-label">Stroke: <span>040</span>px</label>
+    <label id="stroke-width-label">Taille: <span>040</span>px</label>
     <input id="stroke-width" type="range" value="50" min="1" max="250">
     </div>
     
     <div class="hue-container">
-      <label id="hue-label">Hue <span>&nbsp;</span></label>
+      <label id="hue-label">Couleur <span>&nbsp;</span></label>
       <input id="hue" type="range" value="180" min="0" max="360">
       <div id="rainbow">
         <input type="checkbox" id="rainbow-toggle">

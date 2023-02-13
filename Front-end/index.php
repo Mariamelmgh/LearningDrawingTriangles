@@ -15,7 +15,7 @@
             Ecole
           </h1>
           <p>
-           Dans ce platfome nous allons vous apprendre comment dessiner un triangle et aussi un rectangle en utilisant la technologie
+           Dans cet platfome nous allons vous apprendre comment dessiner un triangle et aussi un rectangle en utilisant la technologie
 
           </p>
           <div class="hero_btn-continer">
